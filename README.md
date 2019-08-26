@@ -4,7 +4,7 @@ A package for rendering EM images based on [Rhoana](https://github.com/Rhoana)'s
 ## Preparation
 + A conda environment of python 2.7
 + [tinyr](https://github.com/HoraceKem/tinyr)
-+ OpenCV 2.7(installed by pip)
++ OpenCV 2.4(installed by pip)
 
 ## Installation
 ```
